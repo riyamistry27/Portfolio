@@ -69,10 +69,8 @@
         <div class="hero-image">
 
             <div class="image-circle">
-
-                <img src="images/profile.jpg.jpeg" alt="Riya Mistry">
-
-            </div>
+    <img src="images/profile.jpg.jpeg" alt="Riya Mistry">
+</div>
 
         </div>
 
