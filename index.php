@@ -70,7 +70,7 @@
 
             <div class="image-circle">
 
-                <img src="images/profile.jpg" alt="Riya Mistry">
+                <img src="images/profile.jpg.jpeg" alt="Riya Mistry">
 
             </div>
 
